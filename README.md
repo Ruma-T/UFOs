@@ -74,13 +74,27 @@ This result shows the UFO sightings for state as 'ca'
 
 
 
-##Summary:  
+
+
+##Summary: 
+
 •	We can search the UFO sighting information according to one or multiple filters based on date, city, country,and shape.
 
 ###Limitation 
+
 •	It did not give the data about daytime or nighttime when it is viewed.
+
 •	Information is limited to US only, we can compare other countries sightings too.
 
-As Javascript is case sensitive,it will not show any result if the we search in uppercase instead of lowercase
+  As Javascript is case sensitive,it will not show any result if the we search in uppercase instead of lowercase.
+  
+  Here is the  search result with Tx and tx:
+  
 
+![cap11.8](https://github.com/Ruma-T/UFOs/blob/main/Resources/cap11.8.PNG)
+
+
+
+
+![cap11.9](https://github.com/Ruma-T/UFOs/blob/main/Resources/cap11.9.PNG)
 
