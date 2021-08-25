@@ -69,7 +69,7 @@
 •	The resul 
 
 ##Summary:  
-•	We can search the UFO sighting information according to one or multiple filters based on date, city, country, shape, and duration.   
+•	We can search the UFO sighting information according to one or multiple filters based on date, city, country,and shape.
 
 ###Limitation 
 •	It did not give the data about daytime or nighttime when it is viewed more. 
